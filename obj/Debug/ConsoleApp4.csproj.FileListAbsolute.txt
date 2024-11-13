@@ -1,0 +1,7 @@
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Informatics\praktikum 9\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
